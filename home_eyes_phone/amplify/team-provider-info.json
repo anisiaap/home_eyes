@@ -1,0 +1,66 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homeeyes-staging-76b6c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382513356:role/amplify-homeeyes-staging-76b6c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382513356:role/amplify-homeeyes-staging-76b6c-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-homeeyes-staging-76b6c-deployment",
+      "UnauthRoleName": "amplify-homeeyes-staging-76b6c-unauthRole",
+      "StackName": "amplify-homeeyes-staging-76b6c",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382513356:stack/amplify-homeeyes-staging-76b6c/3a6a4e50-06d9-11ef-b748-122c5b4029f9",
+      "AmplifyAppId": "d2nk8du1lz1cpi"
+    },
+    "categories": {
+      "auth": {
+        "homeeyes98db6797": {}
+      },
+      "function": {
+        "createS3Bucket": {
+          "deploymentBucketName": "amplify-homeeyes-staging-76b6c-deployment",
+          "s3Key":
+        }
+      },
+      "storage": {
+        "homeeyes08fa0fc2": {
+          "bucketName": "doorlock-residents",
+          "region": "us-east-1"
+        },
+        "s3d773b947": {}
+      },
+      "api": {
+        "homeeyes": {}
+      }
+    }
+  },
+  "homeeyes": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homeeyes-homeeyes-391b4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382513356:role/amplify-homeeyes-homeeyes-391b4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382513356:role/amplify-homeeyes-homeeyes-391b4-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-homeeyes-homeeyes-391b4-deployment",
+      "UnauthRoleName": "amplify-homeeyes-homeeyes-391b4-unauthRole",
+      "StackName": "amplify-homeeyes-homeeyes-391b4",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382513356:stack/amplify-homeeyes-homeeyes-391b4/8c788880-0a47-11ef-9ec1-12dd55cb1d45",
+      "AmplifyAppId": "d3noyx8efipnhg"
+    },
+    "categories": {
+      "auth": {
+        "homeeyes98db6797": {}
+      },
+      "function": {
+        "createS3Bucket": {
+          "deploymentBucketName": "amplify-homeeyes-homeeyes-391b4-deployment",
+          "s3Key":
+        }
+      },
+      "api": {
+        "homeeyes": {}
+      },
+      "storage": {
+        "s3d773b947": {}
+      }
+    }
+  }
+}

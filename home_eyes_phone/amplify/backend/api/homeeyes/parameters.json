@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "homeeyes",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authhomeeyes98db6797",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2024-05-04T15:23:38.012Z"
+}

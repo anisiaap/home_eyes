@@ -1,0 +1,22 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "homeeyesraspi",
+  "serviceType": "imported",
+  "region": "us-east-1",
+  "usernameAttributes": [
+    "email"
+  ],
+  "requiredAttributes": [
+    "address",
+    "phone_number",
+    "email",
+    "name"
+  ],
+  "passwordPolicyMinLength": 8,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OFF",
+  "autoVerifiedAttributes": [
+    "email"
+  ],
+  "mfaTypes": []
+}

@@ -1,0 +1,14 @@
+type Logs @model @auth(rules: [{allow: private}, {allow: owner}]) {
+  id: ID!
+  action: String!
+  timestamp: AWSDateTime!
+  username: String!
+}
+
+type FacePhotos @model @auth(rules: [{allow: private}, {allow: owner}]) {
+  id: ID!
+  name: String!
+  photo: AWSURL!
+  user: String!
+}
+ 

@@ -1,0 +1,126 @@
+{
+  "api": {},
+  "auth": {
+    "homeeyesraspi": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_homeeyesraspi_allowUnauthenticatedIdentities": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_authRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_authRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_identityPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_identityPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_unauthRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_unauthRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_auth_homeeyesraspi_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "homeeyesraspi"
+        }
+      ]
+    },
+    "AMPLIFY_storage_homeeyesraspi894e9097_bucketName": {
+      "usedBy": [
+        {
+          "category": "storage",
+          "resourceName": "homeeyesraspi894e9097"
+        }
+      ]
+    },
+    "AMPLIFY_storage_homeeyesraspi894e9097_region": {
+      "usedBy": [
+        {
+          "category": "storage",
+          "resourceName": "homeeyesraspi894e9097"
+        }
+      ]
+    }
+  },
+  "storage": {
+    "homeeyesraspi894e9097": {
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "S3",
+      "serviceType": "imported"
+    }
+  }
+}
