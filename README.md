@@ -1,4 +1,4 @@
-# home_eyes
+# Home Eyes
 
 Explanation and functionalities
 
@@ -28,35 +28,11 @@ Cloud Architecture
 
 ![image](https://github.com/anisiaap/home_eyes/assets/93073444/f4a08be7-3210-46ba-a860-665fe729ef70)
 
-	First of all, to better understand the logic behind the project, we need to see what are the Use Cases of our app.
 
- 
-Use Case Diagram of the project
-
-
-
-
-
-
-
-
-
-
-Also, the logic behind each page is explained bellow.
      
 
 ![image](https://github.com/anisiaap/home_eyes/assets/93073444/75f2bdda-1684-4c8e-aefe-3e2017c92b14)
 
-Hardware System Architecture
-
- 
-
-
-Circuit View (Fritzing)
-
-
- 
-Schematic View (Fritzing)
 ![image](https://github.com/anisiaap/home_eyes/assets/93073444/01f60dcd-eb89-4792-8af0-3db1897c6b4b)
 
 
