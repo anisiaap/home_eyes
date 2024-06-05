@@ -61,15 +61,13 @@ Schematic View (Fritzing)
 
 
 
-![Screenshot 2024-06-05 at 22 30 55](https://github.com/anisiaap/home_eyes/assets/93073444/49acba54-50ab-439d-8b21-b466dcf05ae9)
-![Screenshot 2024-06-05 at 22 30 50](https://github.com/anisiaap/home_eyes/assets/93073444/cbf85302-f323-4759-91de-719cfa4a620d)
-![Screenshot 2024-06-05 at 22 30 45](https://github.com/anisiaap/home_eyes/assets/93073444/a4efe566-bc2c-45fd-943c-2aacbb95b257)
-![Screenshot 2024-06-04 at 17 01 12](https://github.com/anisiaap/home_eyes/assets/93073444/7acfe546-3acb-4ae6-9342-04177d60649c)
-![Screenshot 2024-06-04 at 16 22 46](https://github.com/anisiaap/home_eyes/assets/93073444/c251a30b-cb3b-46f2-92fa-6bae71dd5c1d)
-![Screenshot 2024-06-05 at 22 31 15](https://github.com/anisiaap/home_eyes/assets/93073444/644f17e1-5b17-45d6-a6d9-80e99bc302c3)
-![Screenshot 2024-06-05 at 22 31 11](https://github.com/anisiaap/home_eyes/assets/93073444/6eac683d-34cb-4b22-beb4-a194a821a8df)
-![Screenshot 2024-06-05 at 22 31 05](https://github.com/anisiaap/home_eyes/assets/93073444/7703991e-da1c-44fb-9376-11cdc076a04e)
-![Screenshot 2024-06-05 at 22 31 00](https://github.com/anisiaap/home_eyes/assets/93073444/429e1a40-e219-4102-a6ad-3f4c6c7a2eab)
 
 
 
+![Screenshot 2024-06-05 at 22 30 55](https://github.com/anisiaap/home_eyes/assets/93073444/6b8f35e9-60e4-45d2-8956-baf03e257f0d)
+![Screenshot 2024-06-05 at 22 30 50](https://github.com/anisiaap/home_eyes/assets/93073444/91a28d15-f59f-48a0-abd6-57bc4567bbf0)
+![Screenshot 2024-06-05 at 22 30 45](https://github.com/anisiaap/home_eyes/assets/93073444/c2190bce-d1db-4956-8250-1cb3b82b7bf1)
+![Screenshot 2024-06-05 at 22 31 15](https://github.com/anisiaap/home_eyes/assets/93073444/9052a1d9-43fb-4077-8ed9-e88a34a8d59b)
+![Screenshot 2024-06-05 at 22 31 11](https://github.com/anisiaap/home_eyes/assets/93073444/49fb3982-e13b-442c-ba3e-beb5714917c2)
+![Screenshot 2024-06-05 at 22 31 05](https://github.com/anisiaap/home_eyes/assets/93073444/93c459db-3753-4164-bffe-7c0e8bd9a66c)
+![Screenshot 2024-06-05 at 22 31 00](https://github.com/anisiaap/home_eyes/assets/93073444/363f5093-d1a4-4aef-a24c-03a10cea651f)
